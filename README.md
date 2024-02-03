@@ -1,5 +1,5 @@
 # Cybersecurity
-                                                               __SECURITY AUDIT__
+                                                               SECURITY AUDIT
 
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront,
 and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information
@@ -14,4 +14,5 @@ The IT manager starts by implementing the National Institute of Standards and Te
 listing assets currently managed by the IT department, and completing a risk assessment.
 
 The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
+
 __My task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist.__
