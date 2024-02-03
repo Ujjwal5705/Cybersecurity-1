@@ -1,3 +1,3 @@
 # Cybersecurity
 
-                                 _SECURITY AUDIT_
+                                 _SECURITYAUDIT_
