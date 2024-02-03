@@ -11,8 +11,7 @@ them identify and mitigate potential risks, threats, or vulnerabilities to criti
 regulations related to internally processing and accepting online payments and conducting business in the European Union (E.U.).
 
 The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals,
-listing assets currently managed by the IT department, and completing a risk assessment. The goal of the audit is to provide an overview of the risks and/or fines 
-that the company might experience due to the current state of their security posture.
+listing assets currently managed by the IT department, and completing a risk assessment.
 
 The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
 My task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
